@@ -41,6 +41,6 @@ python chess_game.py
 ![Screenshot 2023-05-24 at 3 27 17 PM](https://github.com/rajuljha/chess-game/assets/34140028/d0e24ca4-bfe6-4933-9ae0-bc81c4a81cae)
 
 ## References
-1. 3blue1brown youtube channel: Video ![The impossible chessboard puzzle](https://www.youtube.com/watch?v=wTJI_WuZSwE&t=208s)
-2. Stand Up Maths: Video ![The Almost Impossibe Chessboard Puzzle](https://www.youtube.com/watch?v=as7Gkm7Y7h4)
-3. Article ![Impossible Escape?](http://datagenetics.com/blog/december12014/index.html) by DataGenetics
+1. 3blue1brown youtube channel: Video https://www.youtube.com/watch?v=wTJI_WuZSwE&t=208s
+2. Stand Up Maths: Video https://www.youtube.com/watch?v=as7Gkm7Y7h4
+3. Article (http://datagenetics.com/blog/december12014/index.html by DataGenetics
