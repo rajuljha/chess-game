@@ -1,6 +1,5 @@
 import tkinter as tk
 import random
-from pprint import pprint
 
 # Create a chessboard class
 class Chessboard(tk.Frame):
@@ -36,7 +35,7 @@ class Chessboard(tk.Frame):
         xor_result = self.perform_xor(binary_digit, binary_number)
         
         print("Binary Number for Cell ({}, {}): {}".format(row + 1, col + 1, binary_number))
-        print("Result of XOR operation on current cell and required key cell is: {}".format(xor_result))
+        print("Result of XOR operation on current cell and board parity cell is: {}".format(xor_result))
         cell_number = self.find_cell_number(xor_result)
         print("Cell Number that needs to be flipped: {}".format(cell_number))
         print('##############################################')
